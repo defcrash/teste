@@ -1,0 +1,1572 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="PORTUGAL",RTP 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/1.ts
+#EXTINF:-1 tvg-ID="RTP1" tvg-name="RTP1 LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="PORTUGAL",RTP1 LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/144.ts
+#EXTINF:-1 tvg-ID="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://visaodigital.sytes.net/picons/rtp1hd.png" group-title="PORTUGAL",RTP 1 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/5.ts
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="PORTUGAL",RTP 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/2.ts
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="PORTUGAL",RTP 2 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/6.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://visaodigital.sytes.net/picons/sic.png" group-title="PORTUGAL",SIC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/3.ts
+#EXTINF:-1 tvg-ID="SIC (LBR)" tvg-name="SIC LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/sic.png" group-title="PORTUGAL",SIC LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/145.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="http://visaodigital.sytes.net/picons/sic.png" group-title="PORTUGAL",SIC HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/7.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="http://visaodigital.sytes.net/picons/tvi.png" group-title="PORTUGAL",TVI
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/4.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/tvi.png" group-title="PORTUGAL",TVI LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/146.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="http://visaodigital.sytes.net/picons/tvi.png" group-title="PORTUGAL",TVI HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/8.ts
+#EXTINF:-1 tvg-ID="TVI24" tvg-name="TVI 24" tvg-logo="http://visaodigital.sytes.net/picons/tvi24.png" group-title="PORTUGAL",TVI 24
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/9.ts
+#EXTINF:-1 tvg-ID="SIC Notícias" tvg-name="SIC NOTÍCIAS" tvg-logo="http://visaodigital.sytes.net/picons/sicnoticias.png" group-title="PORTUGAL",SIC NOTÍCIAS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/10.ts
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://visaodigital.sytes.net/picons/cmtv.png" group-title="PORTUGAL",CMTV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/11.ts
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD" tvg-logo="http://visaodigital.sytes.net/picons/cmtv.png" group-title="PORTUGAL",CMTV HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/129.ts
+#EXTINF:-1 tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" group-title="PORTUGAL",RTP 3
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/13.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY" tvg-logo="http://visaodigital.sytes.net/picons/tvireality.png" group-title="PORTUGAL",TVI REALITY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/16.ts
+#EXTINF:-1 tvg-ID="TVIF" tvg-name="TVI FICÇAO" tvg-logo="http://visaodigital.sytes.net/picons/tvificcao.png" group-title="PORTUGAL",TVI FICÇAO
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/19.ts
+#EXTINF:-1 tvg-ID="TVI Reality: Câmara Exclusiva" tvg-name="TVI CAMARA EXCLUSIVA" tvg-logo="http://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/14073530/" group-title="PORTUGAL",TVI CAMARA EXCLUSIVA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/17.ts
+#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL" tvg-logo="http://visaodigital.sytes.net/picons/sicradical.png" group-title="PORTUGAL",SIC RADICAL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/21.ts
+#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://visaodigital.sytes.net/picons/sicmulher.png" group-title="PORTUGAL",SIC MULHER
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/20.ts
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="http://visaodigital.sytes.net/picons/siccaras.png" group-title="PORTUGAL",SIC CARAS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP MEMÓRIA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmemoria.png" group-title="PORTUGAL",RTP MEMÓRIA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/23.ts
+#EXTINF:-1 tvg-ID="RTPMAD" tvg-name="RTP MADEIRA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmadeira.png" group-title="PORTUGAL",RTP MADEIRA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/24.ts
+#EXTINF:-1 tvg-ID="RTPACO" tvg-name="RTP AÇORES" tvg-logo="http://visaodigital.sytes.net/picons/rtpacores.png" group-title="PORTUGAL",RTP AÇORES
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/26.ts
+
+
+#EXTINF:-1 tvg-ID="GLOBO" tvg-name="TV GLOBO PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="PORTUGAL",TV GLOBO PREMIUM
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/28.ts
+#EXTINF:-1 tvg-ID="Globo Premium" tvg-name="TV GLOBO" tvg-logo="http://visaodigital.sytes.net/picons/tvgloboportugal.png" group-title="PORTUGAL",TV GLOBO
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/27.ts
+#EXTINF:-1 tvg-ID="TVGLOBO" tvg-name="TV GLOBO HD" tvg-logo="http://visaodigital.sytes.net/picons/tvgloboportugal.png" group-title="PORTUGAL",TV GLOBO HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="cancao nova" tvg-logo="" group-title="PORTUGAL",cancao nova
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/441.ts
+#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL" tvg-logo="http://visaodigital.sytes.net/picons/travelchannel.png" group-title="PORTUGAL",TRAVEL CHANNEL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/93.ts
+#EXTINF:-1 tvg-ID="AE" tvg-name="A&E" tvg-logo="http://visaodigital.sytes.net/picons/a&e.png" group-title="PORTUGAL",A&E
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/82.ts
+#EXTINF:-1 tvg-ID="NGC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://visaodigital.sytes.net/picons/nationalgeographichd.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/88.ts
+#EXTINF:-1 tvg-ID="NGCWILD" tvg-name="NAT GEO WILD" tvg-logo="http://visaodigital.sytes.net/picons/natgeowild.png" group-title="PORTUGAL",NAT GEO WILD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/89.ts
+#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://visaodigital.sytes.net/picons/discoveryhdshowcase.png" group-title="PORTUGAL",DISCOVERY HD SHOWCASE
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/86.ts
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="DISCOVERY" tvg-logo="http://visaodigital.sytes.net/picons/discovery.png" group-title="PORTUGAL",DISCOVERY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/85.ts
+#EXTINF:-1 tvg-ID="História" tvg-name="CANAL HISTÓRIA" tvg-logo="http://visaodigital.sytes.net/picons/historia.png" group-title="PORTUGAL",CANAL HISTÓRIA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/87.ts
+#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://visaodigital.sytes.net/picons/odisseia.png" group-title="PORTUGAL",ODISSEIA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/90.ts
+#EXTINF:-1 tvg-ID="SPTV_1HD" tvg-name="SPORT.TV 1" tvg-logo="http://fcportovideos.sitefacil.com/data/files/sporttv1.png" group-title="PORTUGAL",SPORT.TV 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/31.ts
+#EXTINF:-1 tvg-ID="Sport TV 1" tvg-name="SPORT TV 1 HQ" tvg-logo="http://visaodigital.sytes.net/picons/sportv1.png" group-title="PORTUGAL",SPORT TV 1 HQ
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/36.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD (LOW BITRATE)" tvg-name="SPORT TV 1 HD LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/sportv1hd.png" group-title="PORTUGAL",SPORT TV 1 HD LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/147.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://visaodigital.sytes.net/picons/sportv1hd.png" group-title="PORTUGAL",SPORT TV 1 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/40.ts
+#EXTINF:-1 tvg-ID="Sport TV 2" tvg-name="SPORT.TV 2" tvg-logo="http://visaodigital.sytes.net/picons/sportv2.png" group-title="PORTUGAL",SPORT.TV 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/32.ts
+#EXTINF:-1 tvg-ID="Sport TV 2 HD" tvg-name="SPORT TV 2 HQ" tvg-logo="http://visaodigital.sytes.net/picons/sportv2.png" group-title="PORTUGAL",SPORT TV 2 HQ
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/37.ts
+#EXTINF:-1 tvg-ID="Sport TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://visaodigital.sytes.net/picons/sportv2hd.png" group-title="PORTUGAL",SPORT TV 2 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/41.ts
+#EXTINF:-1 tvg-ID="SPTV_3" tvg-name="SPORT.TV 3" tvg-logo="http://visaodigital.sytes.net/picons/sportv3.png" group-title="PORTUGAL",SPORT.TV 3
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/33.ts
+#EXTINF:-1 tvg-ID="SPTV_3HD" tvg-name="SPORT TV 3 HD." tvg-logo="http://visaodigital.sytes.net/picons/sportv3.png" group-title="PORTUGAL",SPORT TV 3 HD.
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/38.ts
+#EXTINF:-1 tvg-ID="Sport TV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://visaodigital.sytes.net/picons/sportv3hd.png" group-title="PORTUGAL",SPORT TV 3 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/42.ts
+#EXTINF:-1 tvg-ID="SPTV_4" tvg-name="SPORT TV 4" tvg-logo="http://visaodigital.sytes.net/picons/sportv4.png" group-title="PORTUGAL",SPORT TV 4
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/34.ts
+#EXTINF:-1 tvg-ID="SPTV_4" tvg-name="SPORT TV 4 HQ" tvg-logo="http://visaodigital.sytes.net/picons/sportv4.png" group-title="PORTUGAL",SPORT TV 4 HQ
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/39.ts
+#EXTINF:-1 tvg-ID="Sport TV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://visaodigital.sytes.net/picons/sportv4hd.png" group-title="PORTUGAL",SPORT TV 4 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/43.ts
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="http://visaodigital.sytes.net/picons/sportv5.png" group-title="PORTUGAL",SPORT TV 5
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/35.ts
+#EXTINF:-1 tvg-ID="SPTV_5HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://visaodigital.sytes.net/picons/sportv5hd.png" group-title="PORTUGAL",SPORT TV 5 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/44.ts
+#EXTINF:-1 tvg-ID="BENFICATV1" tvg-name="BTV 1" tvg-logo="http://1904futebol.pt/outros/BTV_1.png" group-title="PORTUGAL",BTV 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/45.ts
+#EXTINF:-1 tvg-ID="BENFICATV1HD" tvg-name="BTV 1 HD" tvg-logo="http://visaodigital.sytes.net/picons/btv1hd.png" group-title="PORTUGAL",BTV 1 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/47.ts
+
+#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="http://visaodigital.sytes.net/picons/sportingtv.png" group-title="PORTUGAL",SPORTING TV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/55.ts
+
+#EXTINF:-1 tvg-ID="EUROSPORT 1" tvg-name="EUROSPORT HD" tvg-logo="http://i.imgur.com/qTREJAE.png?1" group-title="PORTUGAL",EUROSPORT HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/52.ts
+#EXTINF:-1 tvg-ID="Eurosport 2 Xtra HD" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="http://i.imgur.com/7WybtVY.png" group-title="PORTUGAL",EUROSPORT 2 XTRA HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/53.ts
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA" tvg-logo="http://visaodigital.sytes.net/picons/abola.png" group-title="PORTUGAL",A BOLA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/59.ts
+#EXTINF:-1 tvg-ID="EUROS" tvg-name="EUROSPORT 2" tvg-logo="http://i.imgur.com/AxDFuSD.png" group-title="PORTUGAL",EUROSPORT 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/54.ts
+#EXTINF:-1 tvg-ID="PFC" tvg-name="PFC" tvg-logo="http://visaodigital.sytes.net/picons/pfc.png" group-title="PORTUGAL",PFC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID" tvg-logo="http://visaodigital.sytes.net/picons/realmadridtv.png" group-title="PORTUGAL",REAL MADRID
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/57.ts
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://visaodigital.sytes.net/picons/portocanal.png" group-title="PORTUGAL",PORTO CANAL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/12.ts
+
+#EXTINF:-1 tvg-ID="Kombat Sport" tvg-name="KOMBAT SPORT" tvg-logo="http://www.nubianconsult.com/seeafrika/wp-content/uploads/2015/01/logo-kombat-sport.png" group-title="PORTUGAL",KOMBAT SPORT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/50.ts
+#EXTINF:-1 tvg-ID="TVCine 1 HD" tvg-name="TVCINE 1" tvg-logo="http://3.bp.blogspot.com/_tk5JCNM43cc/TTDiWJphxjI/AAAAAAAAAKA/5NwQpl8addE/s320/TVC+1+logo.png" group-title="PORTUGAL",TVCINE 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/60.ts
+#EXTINF:-1 tvg-ID="TVC1 HD (LOW BITRATE)" tvg-name="TVCINE 1 HD LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/tvc1hd.png" group-title="PORTUGAL",TVCINE 1 HD LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/149.ts
+#EXTINF:-1 tvg-ID="TVC 1 HD" tvg-name="TV CINE 1 FULL HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc1hd.png" group-title="PORTUGAL",TV CINE 1 FULL HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/136.ts
+#EXTINF:-1 tvg-ID="TVC2HD" tvg-name="TVCINE 2" tvg-logo="http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="PORTUGAL",TVCINE 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/61.ts
+#EXTINF:-1 tvg-ID="TV CINE 2 HD (LOW BITRATE)" tvg-name="TV CINE 2 FULL HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc2hd.png" group-title="PORTUGAL",TV CINE 2 FULL HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/137.ts
+#EXTINF:-1 tvg-ID="TVCine 4 HD" tvg-name="TVCINE 3" tvg-logo="http://visaodigital.sytes.net/picons/tvc4hd.png" group-title="PORTUGAL",TVCINE 3
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/62.ts
+#EXTINF:-1 tvg-ID="TVC 3 HD" tvg-name="TV CINE 3 HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc3hd.png" group-title="PORTUGAL",TV CINE 3 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/138.ts
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="PORTUGAL",TVCINE 4
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/63.ts
+#EXTINF:-1 tvg-ID="TVC4 HD (LOW BITRATE)" tvg-name="TV CINE 4 HD LB" tvg-logo="http://visaodigital.sytes.net/picons/tvc4hd.png" group-title="PORTUGAL",TV CINE 4 HD LB
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/175.ts
+#EXTINF:-1 tvg-ID="TVCine 4 HD" tvg-name="TV CINE 4 HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc4hd.png" group-title="PORTUGAL",TV CINE 4 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/139.ts
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TVSÉRIES HD" tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png" group-title="PORTUGAL",TVSÉRIES HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/66.ts
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="http://visaodigital.sytes.net/picons/foxmovies.png" group-title="PORTUGAL",FOX MOVIES
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/69.ts
+#EXTINF:-1 tvg-ID="FOXMOVIESHD" tvg-name="FOX MOVIES HD" tvg-logo="http://visaodigital.sytes.net/picons/foxmovies.png" group-title="PORTUGAL",FOX MOVIES HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/439.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/foxhd.png" group-title="PORTUGAL",FOX HD LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/150.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://visaodigital.sytes.net/picons/foxhd.png" group-title="PORTUGAL",FOX HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/74.ts
+#EXTINF:-1 tvg-ID="FOX Comedy" tvg-name="FOX COMEDY" tvg-logo="http://visaodigital.sytes.net/picons/foxcomedy.png" group-title="PORTUGAL",FOX COMEDY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/79.ts
+#EXTINF:-1 tvg-ID="FOXCOMEDY" tvg-name="FOX COMEDY HD" tvg-logo="http://visaodigital.sytes.net/picons/foxcomedy.png" group-title="PORTUGAL",FOX COMEDY HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/440.ts
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE" tvg-logo="http://visaodigital.sytes.net/picons/foxlifehd.png" group-title="PORTUGAL",FOX LIFE
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/72.ts
+#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="http://visaodigital.sytes.net/picons/foxcrimehd.png" group-title="PORTUGAL",FOX CRIME HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/73.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="http://visaodigital.sytes.net/picons/axnhd.png" group-title="PORTUGAL",AXN HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/76.ts
+#EXTINF:-1 tvg-ID="AXN HD (LOW BITRATE)" tvg-name="AXN LOWBIT" tvg-logo="http://visaodigital.sytes.net/picons/axnhd.png" group-title="PORTUGAL",AXN LOWBIT
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/148.ts
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="http://visaodigital.sytes.net/picons/axnwhitehd.png" group-title="PORTUGAL",AXN WHITE HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/77.ts
+#EXTINF:-1 tvg-ID="AXNBLACK" tvg-name="AXN BLACK HD" tvg-logo="http://visaodigital.sytes.net/picons/axnblackhd.png" group-title="PORTUGAL",AXN BLACK HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/78.ts
+#EXTINF:-1 tvg-ID="HOLLYHD" tvg-name="HOLLYWOOD HD" tvg-logo="http://visaodigital.sytes.net/picons/hollywoodhd.png" group-title="PORTUGAL",HOLLYWOOD HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/67.ts
+#EXTINF:-1 tvg-ID="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://visaodigital.sytes.net/picons/hollywood.png" group-title="PORTUGAL",HOLLYWOOD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/68.ts
+#EXTINF:-1 tvg-ID="CINEMUNDO" tvg-name="CINEMUNDO HD" tvg-logo="http://visaodigital.sytes.net/picons/cinemundo.png" group-title="PORTUGAL",CINEMUNDO HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/65.ts
+#EXTINF:-1 tvg-ID="MOV" tvg-name="MOV HD" tvg-logo="http://visaodigital.sytes.net/picons/movhd.png" group-title="PORTUGAL",MOV HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://visaodigital.sytes.net/picons/tlc.png" group-title="PORTUGAL",TLC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/80.ts
+#EXTINF:-1 tvg-ID="SYFYHD" tvg-name="SYFY" tvg-logo="http://visaodigital.sytes.net/picons/syfy.png" group-title="PORTUGAL",SYFY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/75.ts
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY HD" tvg-logo="http://visaodigital.sytes.net/picons/syfy.png" group-title="PORTUGAL",SYFY HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="http://visaodigital.sytes.net/picons/euronews.png" group-title="PORTUGAL",EURONEWS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/83.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN" tvg-logo="http://visaodigital.sytes.net/picons/cnn.png" group-title="PORTUGAL",CNN
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS REALITY" tvg-logo="http://visaodigital.sytes.net/picons/cbsreality.png" group-title="PORTUGAL",CBS REALITY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/81.ts
+#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://visaodigital.sytes.net/picons/canalq.png" group-title="PORTUGAL",CANAL Q
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/15.ts
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIMJAM" tvg-logo="http://visaodigital.sytes.net/picons/jimjam.png" group-title="PORTUGAL",JIMJAM
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/102.ts
+#EXTINF:-1 tvg-ID="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://visaodigital.sytes.net/picons/disneyjunior.png" group-title="PORTUGAL",DISNEY JUNIOR
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/99.ts
+#EXTINF:-1 tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://visaodigital.sytes.net/picons/disneychannel.png" group-title="PORTUGAL",DISNEY CHANNEL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/98.ts
+#EXTINF:-1 tvg-ID="PANDABIGGS" tvg-name="BIGGS" tvg-logo="http://visaodigital.sytes.net/picons/biggs.png" group-title="PORTUGAL",BIGGS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV" tvg-logo="http://visaodigital.sytes.net/picons/babytv.png" group-title="PORTUGAL",BABY TV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/101.ts
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PORTUGAL",CARTOON NETWORK
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/100.ts
+#EXTINF:-1 tvg-ID="Nicke" tvg-name="NICKELODEON" tvg-logo="http://visaodigital.sytes.net/picons/nickelodeon.png" group-title="PORTUGAL",NICKELODEON
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/95.ts
+#EXTINF:-1 tvg-ID="SICK" tvg-name="SIC KIDS" tvg-logo="http://visaodigital.sytes.net/picons/sick.png" group-title="PORTUGAL",SIC KIDS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/97.ts
+#EXTINF:-1 tvg-ID="PANDA" tvg-name="CANAL PANDA" tvg-logo="http://visaodigital.sytes.net/picons/panda.png" group-title="PORTUGAL",CANAL PANDA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/103.ts
+
+#EXTINF:-1 tvg-ID="MCM" tvg-name="MCM POP" tvg-logo="http://visaodigital.sytes.net/picons/mcmpop.png" group-title="PORTUGAL",MCM POP
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/107.ts
+#EXTINF:-1 tvg-ID="MTVHD" tvg-name="MTV PORTUGAL" tvg-logo="http://visaodigital.sytes.net/picons/mtvportugal.png" group-title="PORTUGAL",MTV PORTUGAL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="http://visaodigital.sytes.net/picons/vh1.png" group-title="PORTUGAL",VH1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/105.ts
+#EXTINF:-1 tvg-ID="CMusic" tvg-name="C-MUSIC" tvg-logo="http://visaodigital.sytes.net/picons/cmusic.png" group-title="PORTUGAL",C-MUSIC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/106.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://visaodigital.sytes.net/picons/amc.png" group-title="PORTUGAL",AMC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AFRO MUSIC" tvg-logo="http://visaodigital.sytes.net/picons/afromusic.png" group-title="PORTUGAL",AFRO MUSIC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/111.ts
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://visaodigital.sytes.net/picons/24kitchenhd.png" group-title="PORTUGAL",24 KITCHEN HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOROS" tvg-logo="http://visaodigital.sytes.net/picons/torostv.png" group-title="PORTUGAL",TOROS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/113.ts
+#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="MOTORVISION" tvg-logo="http://visaodigital.sytes.net/picons/motorvision.png" group-title="PORTUGAL",MOTORVISION
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCS LIFESTYLE" tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/comunicados/2016/fevereiro/mcs_lifestyle.png" group-title="PORTUGAL",MCS LIFESTYLE
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/114.ts
+#EXTINF:-1 tvg-ID="Trace Urban" tvg-name="TRACE TV" tvg-logo="http://visaodigital.sytes.net/picons/traceurban.png" group-title="PORTUGAL",TRACE TV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/110.ts
+#EXTINF:-1 tvg-ID="FUELHD" tvg-name="FUEL TV" tvg-logo="http://visaodigital.sytes.net/picons/fueltv.png" group-title="PORTUGAL",FUEL TV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/58.ts
+#EXTINF:-1 tvg-ID="Caçavision" tvg-name="CAÇAVISION" tvg-logo="http://visaodigital.sytes.net/picons/cacavision.png" group-title="PORTUGAL",CAÇAVISION
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/116.ts
+#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CAÇA E PESCA" tvg-logo="http://visaodigital.sytes.net/picons/cacaepesca.png" group-title="PORTUGAL",CAÇA E PESCA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/112.ts
+#EXTINF:-1 tvg-ID="Playboy TV HD" tvg-name="PLAYBOY HD" tvg-logo="http://visaodigital.sytes.net/picons/playboy.png" group-title="FOR ADULTS",PLAYBOY HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/117.ts
+#EXTINF:-1 tvg-ID="Venus" tvg-name="VENUS" tvg-logo="http://visaodigital.sytes.net/picons/venus.png" group-title="FOR ADULTS",VENUS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/119.ts
+#EXTINF:-1 tvg-ID="HOTHD" tvg-name="HOT HD" tvg-logo="http://visaodigital.sytes.net/picons/hot.png" group-title="FOR ADULTS",HOT HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/118.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX=HOT CLUB 7" tvg-logo="" group-title="FOR ADULTS",XXX=HOT CLUB 7
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX=HOT CLUB 6" tvg-logo="" group-title="FOR ADULTS",XXX=HOT CLUB 6
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX=HOT CLUB 5" tvg-logo="" group-title="FOR ADULTS",XXX=HOT CLUB 5
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/595.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX=HOT CLUB 3" tvg-logo="" group-title="FOR ADULTS",XXX=HOT CLUB 3
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX=HOT CLUB 1" tvg-logo="" group-title="FOR ADULTS",XXX=HOT CLUB 1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDLIGHT HD" tvg-logo="" group-title="FOR ADULTS",REDLIGHT HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HUSTLER HD" tvg-logo="" group-title="FOR ADULTS",HUSTLER HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:TELEDEPORTE" tvg-logo="" group-title="",ES:TELEDEPORTE
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:TELECINCO HD" tvg-logo="" group-title="",ES:TELECINCO HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:SYFY HD" tvg-logo="" group-title="",ES:SYFY HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/627.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:NOVA" tvg-logo="" group-title="",ES:NOVA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Nickelodeon HD" tvg-logo="" group-title="",ES:Nickelodeon HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:NEOX" tvg-logo="" group-title="",ES:NEOX
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/631.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:NAT GEO WILD HD" tvg-logo="" group-title="",ES:NAT GEO WILD HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:NAT GEO HD" tvg-logo="" group-title="",ES:NAT GEO HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MTV ESPANA" tvg-logo="" group-title="",ES:MTV ESPANA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MOVISTAR MOTOGP" tvg-logo="" group-title="",ES:MOVISTAR MOTOGP
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MOVISTAR F1" tvg-logo="" group-title="",ES:MOVISTAR F1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MEGA" tvg-logo="" group-title="",ES:MEGA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/635.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:LTC" tvg-logo="" group-title="",ES:LTC
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:LA2" tvg-logo="" group-title="",ES:LA2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:LA1" tvg-logo="" group-title="",ES:LA1
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:LA SEXTA HD" tvg-logo="" group-title="",ES:LA SEXTA HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/638.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:HOLLYWOOD HD" tvg-logo="" group-title="",ES:HOLLYWOOD HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:FOX LIFE HD" tvg-logo="" group-title="",ES:FOX LIFE HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:FOX HD" tvg-logo="" group-title="",ES:FOX HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:EUROSPORT1 HD" tvg-logo="" group-title="",ES:EUROSPORT1 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:ENERGY" tvg-logo="" group-title="",ES:ENERGY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:DISNEY" tvg-logo="" group-title="",ES:DISNEY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:DISCOVERY" tvg-logo="" group-title="",ES:DISCOVERY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:DCINEESPANOL" tvg-logo="" group-title="",ES:DCINEESPANOL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CUATRO HD" tvg-logo="" group-title="",ES:CUATRO HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CRIMEN INVES" tvg-logo="" group-title="",ES:CRIMEN INVES
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:COMEDY CENTRAL" tvg-logo="" group-title="",ES:COMEDY CENTRAL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANALDECASA" tvg-logo="" group-title="",ES:CANALDECASA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL PANDA" tvg-logo="" group-title="",ES:CANAL PANDA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL DE LA ESTRELLAS" tvg-logo="" group-title="",ES:CANAL DE LA ESTRELLAS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL  SERIES HD" tvg-logo="" group-title="",ES:CANAL  SERIES HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL  ESTRENOS" tvg-logo="" group-title="",ES:CANAL  ESTRENOS
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL  DCINE HD" tvg-logo="" group-title="",ES:CANAL  DCINE HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL  COMEDIA HD" tvg-logo="" group-title="",ES:CANAL  COMEDIA HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL  ACCION HD" tvg-logo="" group-title="",ES:CANAL  ACCION HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL   LIGA HD" tvg-logo="" group-title="",ES:CANAL   LIGA HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:CALLE13" tvg-logo="" group-title="",ES:CALLE13
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:C  LIGA" tvg-logo="" group-title="",ES:C  LIGA
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:C  FUTBOL" tvg-logo="" group-title="",ES:C  FUTBOL
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:C  DEPORTES 2" tvg-logo="" group-title="",ES:C  DEPORTES 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:C  DEPORTES" tvg-logo="" group-title="",ES:C  DEPORTES
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:BOING" tvg-logo="" group-title="",ES:BOING
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:beIN Sport Ñ HD" tvg-logo="" group-title="",ES:beIN Sport Ñ HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:BARCATV" tvg-logo="" group-title="",ES:BARCATV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:BABY" tvg-logo="" group-title="",ES:BABY
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:AXN WHITE" tvg-logo="" group-title="",ES:AXN WHITE
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:AXN HD" tvg-logo="" group-title="",ES:AXN HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:ANTENA 3 HD" tvg-logo="" group-title="",ES:ANTENA 3 HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:AMC HD" tvg-logo="" group-title="",ES:AMC HD
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:A&E" tvg-logo="" group-title="",ES:A&E
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES:40TV" tvg-logo="" group-title="",ES:40TV
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/623.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 2" tvg-logo="" group-title="General Streams",FR: EUROSPORT 2
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/959.ts
+
+
+#EXTM3U
+
+
+#EXTINF:-1,Filmes TV,Astroboy S1E01 
+http://media-br-am.crackle.com/1/_/r6/kivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E02 
+http://media-br-am.crackle.com/1/_/r6/jivlf_480p.mp4
+#EXTINF:-1,Filmes TV,Astroboy S1E03 
+http://media-br-am.crackle.com/1/-/r6/iivlf_480p.mp4
+#EXTINF:-1,Filmes TV,Astroboy S1E04 
+http://media-br-am.crackle.com/1/-/r6/hivlf_480p.mp4
+#EXTINF:-1,Filmes TV,Astroboy S1E05 
+http://media-br-am.crackle.com/1/d/v6/3ivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E06 
+http://media-br-am.crackle.com/1/d/v6/2ivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E07 
+http://media-br-am.crackle.com/1/-/r6/givlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E08 
+http://media-br-am.crackle.com/1/-/r6/fivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E09 
+http://media-br-am.crackle.com/1/9/r6/eivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E10 
+http://media-br-am.crackle.com/1/9/r6/divlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E11 
+http://media-br-am.crackle.com/1/9/r6/civlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E12 
+http://media-br-am.crackle.com/1/e/v6/4ivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E13 
+http://media-br-am.crackle.com/1/9/r6/bivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E14 
+http://media-br-am.crackle.com/1/8/r6/aivlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E15 
+http://media-br-am.crackle.com/1/8/r6/9hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E16 
+http://media-br-am.crackle.com/1/8/r6/8hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E17 
+http://media-br-am.crackle.com/1/8/r6/7hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E18 
+http://media-br-am.crackle.com/1/7/r6/6hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E19 
+http://media-br-am.crackle.com/1/7/r6/5hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E20 
+http://media-br-am.crackle.com/1/7/r6/4hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E21 
+http://media-br-am.crackle.com/1/7/r6/3hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E22 
+http://media-br-am.crackle.com/1/6/r6/2hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E23 
+http://media-br-am.crackle.com/1/6/r6/1hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E24 
+http://media-br-am.crackle.com/1/6/r6/0hvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Astroboy S1E25 
+http://media-br-am.crackle.com/1/6/r6/zhvlf_480p.mp4
+
+										
+#EXTINF:-1,Filmes TV,Bleach 01 
+http://media-br-am.crackle.com/1/s/56/ms1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 02 
+http://media-br-am.crackle.com/1/s/56/ls1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 03 
+http://media-br-am.crackle.com/1/u/56/vs1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 04 
+http://media-br-am.crackle.com/1/v/56/ws1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 05 
+http://media-br-am.crackle.com/1/t/56/qs1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 06 
+http://media-br-am.crackle.com/1/u/56/ss1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 07 
+http://media-br-am.crackle.com/1/6/56/7w1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 08 
+http://media-br-am.crackle.com/1/u/56/ts1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 09 
+http://media-br-am.crackle.com/1/u/56/us1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 10 
+http://media-br-am.crackle.com/1/6/56/8w1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 11 
+http://media-br-am.crackle.com/1/y/56/at1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 12 
+http://media-br-am.crackle.com/1/y/56/9s1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 13 
+http://media-br-am.crackle.com/1/7/56/9w1lf_480p_1mbps.mp4											
+#EXTINF:-1,TV,Bleach 14 
+http://media-br-am.crackle.com/1/7/56/ay1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 15 
+http://media-br-am.crackle.com/1/x/56/8s1lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Bleach 16 
+http://media-br-am.crackle.com/1/x/56/7s1lf_480p_1mbps.mp4
+
+
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E1 
+http://media-br-am.crackle.com/1/3/j6/02ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E2 
+http://media-br-am.crackle.com/1/2/j6/z2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E3 
+http://media-br-am.crackle.com/1/2/j6/y2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E4 
+http://media-br-am.crackle.com/1/2/j6/w2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E5 
+http://media-br-am.crackle.com/1/2/j6/v2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E6 
+http://media-br-am.crackle.com/1/1/j6/u2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E7 
+http://media-br-am.crackle.com/1/1/j6/t2ulf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Os Novos Caca Fantasmas E8 
+http://media-br-am.crackle.com/1/1/j6/s2ulf_480p_1mbps.mp4
+
+
+#EXTINF:-1,Filmes TV,Blood Plus E1 
+http://media-br-am.crackle.com/1/f/z6/mqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E2
+http://media-br-am.crackle.com/1/e/z6/iqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E3 
+http://media-br-am.crackle.com/1/e/z6/hqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E4 
+http://media-br-am.crackle.com/1/e/z6/gqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E5 
+http://media-br-am.crackle.com/1/e/z6/fqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E6 
+http://media-br-am.crackle.com/1/d/z6/eqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E7 
+http://media-br-am.crackle.com/1/d/z6/dqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Blood Plus E8 
+http://media-br-am.crackle.com/1/d/z6/cqvlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Crash E1 
+http://media-br-am.crackle.com/1/5/l6/hv0lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Crash E2 
+http://media-br-am.crackle.com/1/5/l6/gv0lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Crash E3 
+http://media-br-am.crackle.com/1/4/l6/fv0lf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,Crash E4 
+http://media-br-am.crackle.com/1/4/l6/ev0lf_480p_1mbps.mp4
+
+
+
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E100 
+http://media-br-am.crackle.com/1/9/h6/lcwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E101 
+http://media-br-am.crackle.com/1/8/h6/jcwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E102 
+http://media-br-am.crackle.com/1/j/l6/0gwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E103 
+http://media-br-am.crackle.com/1/8/h6/icwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E104 
+http://media-br-am.crackle.com/1/8/h6/gcwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E105 
+http://media-br-am.crackle.com/1/7/h6/fcwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E106 
+http://media-br-am.crackle.com/1/7/h6/ccwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E107 
+http://media-br-am.crackle.com/1/6/h6/bcwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E108 
+http://media-br-am.crackle.com/1/2/h6/ubwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E109 
+http://media-br-am.crackle.com/1/2/h6/sbwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E110 
+http://media-br-am.crackle.com/1/1/h6/qbwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E111 
+http://media-br-am.crackle.com/1/1/h6/pbwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T1E112 
+http://media-br-am.crackle.com/1/1/h6/nbwlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E201 
+http://media-br-am.crackle.com/1/d/16/j7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E202 
+http://media-br-am.crackle.com/1/d/16/i7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E203 
+http://media-br-am.crackle.com/1/c/16/h7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E204
+http://media-br-am.crackle.com/1/e/16/m7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E205 
+http://media-br-am.crackle.com/1/e/16/p7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E206 
+http://media-br-am.crackle.com/1/e/16/o7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E207 
+http://media-br-am.crackle.com/1/f/16/s7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E208 
+http://media-br-am.crackle.com/1/g/16/w7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E209 
+http://media-br-am.crackle.com/1/g/16/v7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E210 
+http://media-br-am.crackle.com/1/g/16/u7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E211 
+http://media-br-am.crackle.com/1/f/16/t7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E212 
+http://media-br-am.crackle.com/1/h/16/07wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E213 
+http://media-br-am.crackle.com/1/h/16/z7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E214 
+http://media-br-am.crackle.com/1/g/16/y7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E215 
+http://media-br-am.crackle.com/1/h/16/17wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E216 
+http://media-br-am.crackle.com/1/c/16/g7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E217 
+http://media-br-am.crackle.com/1/c/16/f7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E218 
+http://media-br-am.crackle.com/1/d/16/l7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E219 
+http://media-br-am.crackle.com/1/d/16/k7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E220 
+http://media-br-am.crackle.com/1/e/16/n7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E221 
+http://media-br-am.crackle.com/1/f/16/r7wlf_480p.mp4											
+#EXTINF:-1,Filmes TV,Edicao de Amanha T2E222 
+http://media-br-am.crackle.com/1/f/16/q7wlf_480p.mp4	
+
+
+
+#EXTINF:-1,Filmes TV,V.I.P.
+http://media-br-am.crackle.com/1/z/v6/iovlf_480p_1mbps.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E01 
+http://media-br-am.crackle.com/1/k/z6/5tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E02 
+http://media-br-am.crackle.com/1/k/z6/6tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E03 
+http://media-br-am.crackle.com/1/k/z6/3tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E04 
+http://media-br-am.crackle.com/1/l/z6/auvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E05
+http://media-br-am.crackle.com/1/k/z6/4tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E06 
+http://media-br-am.crackle.com/1/n/z6/huvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E07 
+http://media-br-am.crackle.com/1/n/z6/fuvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E08 
+http://media-br-am.crackle.com/1/n/z6/guvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E09 
+http://media-br-am.crackle.com/1/m/z6/cuvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E10 
+http://media-br-am.crackle.com/1/l/z6/8tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E11 
+http://media-br-am.crackle.com/1/m/z6/euvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E12 
+http://media-br-am.crackle.com/1/m/z6/duvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E13 
+http://media-br-am.crackle.com/1/m/z6/buvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E14
+http://media-br-am.crackle.com/1/o/z6/luvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E15 
+http://media-br-am.crackle.com/1/o/z6/kuvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E16 
+http://media-br-am.crackle.com/1/l/z6/9tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E17 
+http://media-br-am.crackle.com/1/p/z6/nuvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E18 
+http://media-br-am.crackle.com/1/o/z6/muvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E19
+http://media-br-am.crackle.com/1/l/z6/7tvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E20 
+http://media-br-am.crackle.com/1/n/z6/iuvlf_480p.mp4											
+#EXTINF:-1,Filmes TV,V.I.P. T2E21 
+http://media-br-am.crackle.com/1/o/z6/juvlf_480p.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E01 
+http://media-br-am.crackle.com/1/m/r6/scvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E02 
+http://media-br-am.crackle.com/1/m/r6/rcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E03 
+http://media-br-am.crackle.com/1/m/r6/qcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E04 
+http://media-br-am.crackle.com/1/m/r6/pcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E05 
+http://media-br-am.crackle.com/1/l/r6/ocvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E06 
+http://media-br-am.crackle.com/1/l/r6/ncvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E07 
+http://media-br-am.crackle.com/1/l/r6/mcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E08 
+http://media-br-am.crackle.com/1/l/r6/lcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E09 
+http://media-br-am.crackle.com/1/k/r6/kcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E10
+http://media-br-am.crackle.com/1/k/r6/jcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E11
+http://media-br-am.crackle.com/1/k/r6/icvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E12 
+http://media-br-am.crackle.com/1/k/r6/hcvlf_480p_1mbps.mp4											
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BdcQ7Bs.jpg" group-title="TV Aberta",Karate Kid S1E13 
+http://media-br-am.crackle.com/1/j/r6/gcvlf_480p_1mbps.mp4
+
+                                   
+
+
+
+
+                                    
+
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x01 LEG 
+https://cld.pt/dl/download/8b0c6415-f4ca-4173-8648-79d09b7e7f21/s01e01%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x02 LEG 
+https://cld.pt/dl/download/b840c736-e6d4-4efa-ba4c-289e66ddd94a/s01e02%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x03 LEG 
+https://cld.pt/dl/download/35439923-89c6-406e-bb3a-c76c33502cc4/s01e03%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x04 LEG 
+https://cld.pt/dl/download/0c3ce4a4-11bf-4233-b5c8-29391572801a/s01e04%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x05 LEG 
+https://cld.pt/dl/download/aeb65259-6980-4934-aab4-043172f30d15/s01e05%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x06 LEG 
+https://cld.pt/dl/download/4f1df984-6cd6-4642-b0f3-9cbdb09ef5dd/s01e06%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x07 LEG 
+https://cld.pt/dl/download/736cd1ad-f04b-494b-a76a-a17399e166f1/s01e07%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x08 LEG 
+https://cld.pt/dl/download/b8f08fb7-5dab-421c-8b3f-47dd464884dd/s01e08%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x09 LEG 
+https://cld.pt/dl/download/7019c692-0667-4f9d-b7cb-dc23d69faad5/s01e09%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x10 LEG 
+https://cld.pt/dl/download/3e0da26b-09c7-4bdb-b526-7b4638a91bc9/s01e10%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x11 LEG 
+https://cld.pt/dl/download/eb3a71c3-dee4-4654-acf4-e1c27d236b72/s01e11%20Dext3rLEEEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 1x12 LEG 
+https://cld.pt/dl/download/2844bce5-4fc8-4f95-925d-49e29975fa8b/s01e12%20Dext3rLEEEG.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x01 LEG
+https://cld.pt/dl/download/cb00744c-3bf2-4ba1-8e3d-f3ce879cf5a0/Dexter%20S02%20E01%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x02 LEG
+https://cld.pt/dl/download/555c2555-9440-4254-bea6-746a83b49e71/Dexter%20S02%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x03 LEG
+https://cld.pt/dl/download/cb475bc5-7db9-495d-9939-8752f5b86068/Dexter%20S02%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x04 LEG
+https://cld.pt/dl/download/ac67c1e6-3fac-470b-a5f3-95bfbedd7ea3/Dexter%20S02%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x05 LEG
+https://cld.pt/dl/download/d211e9ef-6a6e-470f-9d9c-d23d2a113149/Dexter%20S02%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x06 LEG
+https://cld.pt/dl/download/66f58516-cf50-4bdd-b0d2-9ee3aae948e6/Dexter%20S02%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x07 LEG
+https://cld.pt/dl/download/6d0f97a4-9e36-4e0b-9574-0c652dfbba4b/Dexter%20S02%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x08 LEG
+https://cld.pt/dl/download/d735129f-54ec-40de-8fdf-9542088b8975/Dexter%20S02%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x09 LEG
+https://cld.pt/dl/download/730fdbc2-9e74-4779-92bc-ee061833eccd/Dexter%20S02%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x10 LEG
+https://cld.pt/dl/download/15f78bad-4716-4578-bdc1-8a365dd07fb3/Dexter%20S02%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x11 LEG
+https://cld.pt/dl/download/a5898c81-ec40-4269-bfa7-e0bb6f172d07/Dexter%20S02%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 2x12 LEG
+https://cld.pt/dl/download/68f095ba-2f00-417f-a76b-3e1544c03868/Dexter%20S02%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+	
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x01 LEG
+https://cld.pt/dl/download/8d05f280-a912-4510-a521-ce743e8ed4ed/Dexter%20S03%20E01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x02 LEG
+https://cld.pt/dl/download/5a04d826-b625-46c9-b4aa-27be69b700ce/Dexter%20S03%20E02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x03 LEG
+https://cld.pt/dl/download/07abbe13-6cda-4d2c-ba99-430ed044bbed/Dexter%20S03%20E03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x04 LEG
+ https://cld.pt/dl/download/f84c712a-23e5-43dc-842a-0623dedec65c/Dexter%20S03%20E04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x05 LEG
+https://cld.pt/dl/download/47a93b6b-4650-4a9f-a668-592a1b6eb5cb/Dexter%20S03%20E05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x06 LEG
+https://cld.pt/dl/download/af9832ad-e63f-4026-bdd8-ea3d15776ff9/Dexter%20S03%20E06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x07 LEG
+https://cld.pt/dl/download/2e26b76c-79eb-44a7-8e52-f95f84754d2f/Dexter%20S03%20E07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x08 LEG
+https://cld.pt/dl/download/0777d354-7694-4421-bc7f-0782a589f736/Dexter%20S03%20E08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x09 LEG
+https://cld.pt/dl/download/5e0b57ce-f889-4f4a-a9a1-c61f02bdc2d2/Dexter%20S03%20E09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x10 LEG
+https://cld.pt/dl/download/b17bf0ae-b176-488b-98d6-e3059a758df3/Dexter%20S03%20E10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x11 LEG
+https://cld.pt/dl/download/a682e5a0-01b5-4fe1-802d-4632cef0b2f4/Dexter%20S03%20E11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 3x12 LEG
+https://cld.pt/dl/download/af28157d-0de9-448e-8dd8-b5161d9398cc/Dexter%20S03%20E12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x01 LEG
+https://cld.pt/dl/download/930a9721-45d3-4a48-a4a2-35becb553ad7/Dexter%20S04%20E01%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x02 LEG
+https://cld.pt/dl/download/60006332-8c7c-4ce9-82a9-84d8f42988e3/Dexter%20S04%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x03 LEG
+https://cld.pt/dl/download/1a5a1110-eee7-45e8-b192-23dc10c59841/Dexter%20S04%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x04 LEG
+https://cld.pt/dl/download/214fbf17-687b-4958-81a5-c264ed5be920/Dexter%20S04%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x05 LEG
+https://cld.pt/dl/download/87081efb-1f55-45f9-9ffc-a9c6047c3b07/Dexter%20S04%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x06 LEG
+https://cld.pt/dl/download/9bc7b3ac-6386-40c2-83cd-564db31c3762/Dexter%20S04%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x07 LEG
+https://cld.pt/dl/download/efd7ae99-397c-4e78-842a-b7f7e25b927e/Dexter%20S04%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x08 LEG
+https://cld.pt/dl/download/e89c6c2a-590f-4655-ae03-bb2511f8a709/Dexter%20S04%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x09 LEG
+https://cld.pt/dl/download/b4d371f2-df5f-4088-9061-03795a11b266/Dexter%20S04%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x10 LEG
+https://cld.pt/dl/download/87c87c21-910a-414a-9d70-00790cc32986/Dexter%20S04%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x11 LEG
+https://cld.pt/dl/download/47d31d24-6839-47f2-a814-a3bb36cf3def/Dexter%20S04%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 4x12 LEG
+https://cld.pt/dl/download/5766837c-bce1-4fa6-8d00-e3947b0dfe05/Dexter%20S04%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x01 LEG
+https://cld.pt/dl/download/ee8f0e9b-54ef-490e-b1e1-478a8459f226/Dexter%20S05%20E01%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x02 LEG
+https://cld.pt/dl/download/9b639726-153f-4087-8d98-3b0640d58a96/Dexter%20S05%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x03 LEG
+https://cld.pt/dl/download/333117a0-c453-4708-9a82-631644cec517/Dexter%20S05%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x04 LEG
+https://cld.pt/dl/download/dd74f465-eb00-47fc-8608-43cf88db4bcb/Dexter%20S05%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x05 LEG
+https://cld.pt/dl/download/51291ff7-8fd5-4e10-91df-3598ac6d6923/Dexter%20S05%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x06 LEG
+https://cld.pt/dl/download/4d31d477-f779-4b8e-9a0d-87043b37a63f/Dexter%20S05%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x07 LEG
+https://cld.pt/dl/download/39094d23-5b43-4c0c-b87c-95df9309bc53/Dexter%20S05%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x08 LEG
+https://cld.pt/dl/download/cdf1906a-5cca-4f51-ad73-75bf1bc4ddff/Dexter%20S05%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x09 LEG
+https://cld.pt/dl/download/684e5b50-041c-4ccd-b255-33b2526b43ca/Dexter%20S05%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x10 LEG
+https://cld.pt/dl/download/75479def-caaf-4313-85b0-1eb25acfc56b/Dexter%20S05%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x11 LEG
+https://cld.pt/dl/download/063c94cd-8f68-4ad9-bac9-d6e273c70d37/Dexter%20S05%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 5x12 LEG
+https://cld.pt/dl/download/5e81603c-fd35-4946-9840-504b8b139b0f/Dexter%20S05%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x01 LEG
+https://cld.pt/dl/download/54a5a1f8-b31a-4468-91b5-099cb4feb112/Dexter%20S06%20E01%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x02 LEG
+https://cld.pt/dl/download/838b7a67-d422-43b2-8422-21ea0ed016bb/Dexter%20S06%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x03 LEG
+https://cld.pt/dl/download/cdab6c77-03da-49bd-9ac9-7a36c3e7805f/Dexter%20S06%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x04 LEG
+https://cld.pt/dl/download/2aa454c5-0b44-457a-ae08-0d70a35cd66d/Dexter%20S06%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x05 LEG
+https://cld.pt/dl/download/94001a99-0a9c-497c-a994-86bb3d7c7a18/Dexter%20S06%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x06 LEG
+https://cld.pt/dl/download/81687bf8-635c-4d46-baeb-67015053e31f/Dexter%20S06%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x07 LEG
+https://cld.pt/dl/download/17e0cf39-2eab-4da8-aa79-b7de4a28ce11/Dexter%20S06%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x08 LEG
+https://cld.pt/dl/download/4a6ad575-8ff3-4d6a-85cc-379a5736c095/Dexter%20S06%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x09 LEG
+https://cld.pt/dl/download/aff7aa88-f5d7-431d-9499-cb923f33222b/Dexter%20S06%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x10 LEG
+https://cld.pt/dl/download/dcf05436-5e49-4b9c-9eb0-c579fc67f816/Dexter%20S06%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x11 LEG
+https://cld.pt/dl/download/6403129a-2012-449d-8fe6-b2b1427fb932/Dexter%20S06%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 6x12 LEG
+https://cld.pt/dl/download/68654ad4-ccf7-4356-8b4c-192111b11033/Dexter%20S06%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x01 LEG
+https://cld.pt/dl/download/53bc0c17-2c17-4ae3-8360-c9acb8da84bb/Dexter%20S07%20E01%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x02 LEG
+https://cld.pt/dl/download/211c7cbf-5c38-4d5f-ac4c-cfadbf942d36/Dexter%20S07%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x03 LEG
+https://cld.pt/dl/download/97d8467a-8e2b-480a-ab5c-e51d589a55f0/Dexter%20S07%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x04 LEG
+https://cld.pt/dl/download/099a7974-c174-4b4a-99d9-0facce373682/Dexter%20S07%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x05 LEG
+https://cld.pt/dl/download/852741f3-f5ad-491d-a224-46c4ef4f9da9/Dexter%20S07%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x06 LEG
+https://cld.pt/dl/download/76daa938-22b1-4e48-9308-6950c4d03dc3/Dexter%20S07%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x07 LEG
+https://cld.pt/dl/download/4772757c-ea6a-4e4c-9fdb-0b1a96d82852/Dexter%20S07%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x08 LEG
+https://cld.pt/dl/download/32ffa836-055e-4ff8-81f2-a48f18c93ac3/Dexter%20S07%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x09 LEG
+https://cld.pt/dl/download/32a851d8-6e9b-4985-8186-9129704e6b29/Dexter%20S07%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x10 LEG
+https://cld.pt/dl/download/d4ed51b5-fd60-4b27-9597-afb44667fb8b/Dexter%20S07%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x11 LEG
+https://cld.pt/dl/download/2c016a22-1a4b-43b1-aeb5-302034b8486b/Dexter%20S07%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 7x12 LEG
+https://cld.pt/dl/download/32726d50-8cc3-4091-af12-a79782ea199c/Dexter%20S07%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x01 LEG
+https://cld.pt/dl/download/2aa454c5-0b44-457a-ae08-0d70a35cd66d/Dexter%20S06%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x02 LEG
+https://cld.pt/dl/download/80852311-c466-4366-9ed9-c70d50c2df0c/Dexter%20S08%20E02%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x03 LEG
+https://cld.pt/dl/download/23a05bae-df98-4573-b9b2-70214df73403/Dexter%20S08%20E03%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x04 LEG
+https://cld.pt/dl/download/ac0d49ca-7461-40ca-a622-03fd6e1cba9d/Dexter%20S08%20E04%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x05 LEG
+https://cld.pt/dl/download/8dd2e80e-81ff-4b80-9161-a6cbe914385c/Dexter%20S08%20E05%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x06 LEG
+https://cld.pt/dl/download/b3a4382d-8410-4f05-94e5-184100de32ce/Dexter%20S08%20E06%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x07 LEG
+https://cld.pt/dl/download/0d21cccd-ca75-4e76-adbc-c52f928cef62/Dexter%20S08%20E07%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x08 LEG
+https://cld.pt/dl/download/c0329ddf-dea7-4e3e-b229-fcc62161b441/Dexter%20S08%20E08%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x09 LEG
+https://cld.pt/dl/download/48e742eb-20b7-451f-8752-74c3549bdcdf/Dexter%20S08%20E09%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x10 LEG
+https://cld.pt/dl/download/2a13c3a7-db09-4e39-b07f-e7fea605d5ec/Dexter%20S08%20E10%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x11 LEG
+https://cld.pt/dl/download/2c77d5ce-0ed5-448e-b3e1-e5ee64443a9b/Dexter%20S08%20E11%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - LEGENDADO" pltv-subgroup="Dexter - Legendado", Dexter 8x12 LEG
+https://cld.pt/dl/download/d7130aa1-e591-416e-a5e7-9374726749d2/Dexter%20S08%20E12%20-%20BRRip%20-%20x264%20-%20AC3%205.1%20-%3D%7BSPARROW%7D%3D-.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x01 DUB
+https://cld.pt/dl/download/072dfddd-b936-4b03-b292-1606e98ef9f5/s01e01%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x02 DUB
+https://cld.pt/dl/download/4d7c7522-2826-4d2a-815b-26879c2bdf9c/s01e02%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x03 DUB
+https://cld.pt/dl/download/60d54205-043a-4797-ad9a-68943a5cfd7f/s01e03%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x04 DUB
+https://cld.pt/dl/download/c8f0bef8-b61b-45ca-99c5-753d892949a9/s01e04%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x05 DUB
+https://cld.pt/dl/download/cd468487-a650-4828-abef-ab88898cbc81/s01e05%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x06 DUB
+https://cld.pt/dl/download/70908c7e-1015-48ca-a4b1-3d58fdc59d49/s01e06%20D33xt3r%20Duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x07 DUB
+https://cld.pt/dl/download/a9af28a0-ea2e-4adb-b39e-4db71a32459a/s01e07%20%20D33xt3r%20Duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x08 DUB
+https://cld.pt/dl/download/26ec0da3-7c83-4505-a0a1-c7188f713e2b/s01e08%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x09 DUB
+https://cld.pt/dl/download/c3b04b81-bccd-4d6a-b679-61cedc72de86/s01e09%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x10 DUB
+https://cld.pt/dl/download/a0c8c626-8270-4837-8a80-3f637787e212/s01e10%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x11 DUB
+https://cld.pt/dl/download/faa5ab14-d367-4cce-9047-7f4b1a2f0426/s01e11%20D3xt33r.duub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/STtGou" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 1x12 DUB
+https://cld.pt/dl/download/8be50fd5-d74e-44ef-a063-4441acba5d34/s01e12%20D3xt33r.duub.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x01 DUB
+https://cld.pt/dl/download/98f7ce8c-0dc2-4782-9809-57b9a76dad50/1%20-%20Est%C3%A1%20Vivo%21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x02 DUB
+https://cld.pt/dl/download/2f5284c9-dec6-40fe-b115-f6dfc4ceeb2e/2%20-%20Esperando%20Exalar.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x03 DUB
+https://cld.pt/dl/download/bbac813e-db8f-4249-8ade-d5a44044eb8f/3%20-%20Uma%20Mentira%20Inconveniente.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x04 DUB
+https://cld.pt/dl/download/c47b5801-b83d-48d5-93c5-3d431668e602/4%20-%20Invis%C3%ADvel.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x05 DUB
+https://cld.pt/dl/download/07766ce9-31d5-4b9f-9197-40d6617684c1/5%20-%20O%20Defensor%20Negro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x06 DUB
+https://cld.pt/dl/download/4db15d6f-cab7-4432-b57d-76ee9cf1f97a/6%20-%20Dex%2C%20Mentiras%20e%20Trapa%C3%A7as.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x07 DUB
+https://cld.pt/dl/download/3f511681-fa7e-4266-84cf-0779c88411de/7%20-%20Naquela%20Noite%2C%20Uma%20Floresta%20Cresceu.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x08 DUB
+https://cld.pt/dl/download/48fce7f4-6765-47fa-98f5-3bfc2f8eab71/8%20-%20Amanheceu.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x09 DUB
+https://cld.pt/dl/download/d82fd5fb-e963-435b-9a96-d1f8a3d6994a/9%20-%20Resistir%20%C3%A9%20In%C3%BAtil.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x10 DUB
+https://cld.pt/dl/download/93f94659-2b8d-4814-ab96-8fd367e796ff/10%20-%20Alguma%20Coisa%20Sobre%20Harry.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x11 DUB
+https://cld.pt/dl/download/d2ca220d-25a1-4c6a-a246-5562f96bdc0e/11%20-%20Vire%20em%20Frente%20%C3%A0%20Esquerda.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Uq9M2Z" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 2x12 DUB
+https://cld.pt/dl/download/f133bbb7-dfcb-4a9c-81b7-b8600e4915dd/12%20-%20A%20Invas%C3%A3o%20Brit%C3%A2nica.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x01 DUB
+https://cld.pt/dl/download/006dd1ed-105b-4e35-b826-e8b93739acfc/1%20-%20Nosso%20Pai.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x02 DUB
+https://cld.pt/dl/download/d58a9cd2-b848-45aa-8a38-bc4d13fa2730/2%20-%20Procurando%20Freebo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x03 DUB
+https://cld.pt/dl/download/b508c443-28e0-4e1a-9e20-0c7ea31ed2a3/3%20-%20O%20Le%C3%A3o%20Dorme%20Novamente.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x04 DUB
+https://cld.pt/dl/download/8562bdc9-d566-496e-9efc-ea643abf118b/4%20-%20Tudo%20em%20Fam%C3%ADlia.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x05 DUB
+https://cld.pt/dl/download/8de808dd-aa71-41a1-a36f-1ecb717302c2/5%20-%20Viagem%20a%20Bimini.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x06 DUB
+https://cld.pt/dl/download/024754d9-073f-48f5-aedd-f9327a161a3e/6%20-%20%C3%89%20Poss%C3%ADvel.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x07 DUB
+https://cld.pt/dl/download/04e8c012-923b-4790-b534-5a1fc3b02961/7%20-%20F%C3%A1cil%20Demais.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x08 DUB
+https://cld.pt/dl/download/9912a4ff-4002-4b24-b834-6a29811a5cbe/8%20-%20O%20Estrago%20que%20um%20Homem%20Pode%20Fazer.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x09 DUB
+https://cld.pt/dl/download/4a527e4e-6a99-4a88-b0e3-103b9c88da25/9%20-%20Sobre%20a%20%C3%9Altima%20Noite.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x10 DUB
+https://cld.pt/dl/download/d52e7486-9e7e-4804-896c-23a476ad4526/10%20-%20Siga%20Seu%20Pr%C3%B3prio%20Caminho.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x11 DUB
+https://cld.pt/dl/download/50d6df88-79ec-4b76-80cd-c6ec5eeba615/11%20-%20Eu%20Tive%20um%20Sonho.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GBFP2w" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 3x12 DUB
+https://cld.pt/dl/download/59f06c70-c514-47ad-b8c1-02a9e6cdd2c3/12%20-%20Voc%C3%AA%20Aceita%20Dexter%20Morgan.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x01 DUB
+https://cld.pt/dl/download/1cc52101-fa7a-48b3-96f3-80155c0de158/4x01%20-%20Vivendo%20o%20Sonho.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x02 DUB
+https://cld.pt/dl/download/a82b249a-6307-426f-9168-f8160624b4bd/4x02%20-%20O%20Que%20Ser%C3%A1%20dos%20Restos.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x03 DUB
+https://cld.pt/dl/download/b78be016-87da-47d2-89bf-6d5e09b381c3/4x03%20-%20Cegado%20Pela%20Luz.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x04 DUB
+https://cld.pt/dl/download/537de07e-d019-4eaa-af51-ed22e5c13b2e/4x04%20-%20Dex%20Sai%20de%20F%C3%A9rias.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x05 DUB
+https://cld.pt/dl/download/30504b5c-f276-45c2-8cd6-5cb1d807a4bb/4x05%20-%20Perseguidor%20Implac%C3%A1vel.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x06 DUB
+https://cld.pt/dl/download/94916423-740d-48cb-aa26-3b5e9d8973dc/4x06%20-%20Se%20Eu%20Tivesse%20um%20Martelo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x07 DUB
+https://cld.pt/dl/download/fe5e5a07-0330-43b7-aa94-9d532cf0d939/4x07%20-%20Mar%C3%A9%20Mansa.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x08 DUB
+https://cld.pt/dl/download/c2f4de2c-4470-4084-ac66-f30d22a58039/4x08%20-%20Problemas%20na%20Estrada.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x09 DUB
+https://cld.pt/dl/download/bb9a3722-86f5-46ea-9e77-5f8f17cc8af2/4x09%20-%20Homem%20Faminto.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x10 DUB
+https://cld.pt/dl/download/565dc29d-0a78-401d-9df3-694c7ed9fbce/4x10%20-%20Garotos%20Perdidos.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x11 DUB
+https://cld.pt/dl/download/f551c805-dcb7-4ba4-9e79-30053c8a4dd4/4x11%20-%20Ol%C3%A1%2C%20Dexter%20Morgan.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/IMKrc1" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 4x12 DUB
+https://cld.pt/dl/download/ee9bbc6c-53c8-4099-ab20-c084c34d479e/4x12%20-%20A%20Escapada.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x01 DUB
+https://cld.pt/dl/download/0066e1ff-bbf5-4fad-9607-51296df630bb/5x01%20-%20Meu%20Erro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x02 DUB
+https://cld.pt/dl/download/3199bed1-ef1f-4486-b5a2-8d89a624e636/5x02%20-%20Ol%C3%A1%2CBandido.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x03 DUB
+https://cld.pt/dl/download/b146e8c3-a93d-4637-99ec-e45a2350e481/5x03%20-%20Praticamente%20Perfeito.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x04 DUB
+https://cld.pt/dl/download/585f6b15-afe9-44c2-892a-84d6bac2876a/5x04%20-%20A%20Bela%20e%20a%20Fera.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x05 DUB
+https://cld.pt/dl/download/eacc546c-2ce2-468f-95c0-85838b84fc47/5x05%20-%20Primeiro%20Sangramento.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x06 DUB
+https://cld.pt/dl/download/d9ae93cc-ef1e-495f-86c6-7d17fdd53714/5x06%20-%20Est%C3%A1%20Tudo%20Claro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x07 DUB
+https://cld.pt/dl/download/88c39053-b5e8-4907-bee2-4a0bbe5b21f7/5x07%20-%20Nosso%20Circulo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x08 DUB
+https://cld.pt/dl/download/e0c9c5ab-3e06-472f-a97b-315b9607cdc7/5x08%20-%20Pegue%20Isso.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x09 DUB
+https://cld.pt/dl/download/1943ff1a-090a-4f39-bd2e-ba0f0ee3cf83/5x09%20-%20Adolesc%C3%AAncia%20Deserta.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x10 DUB
+https://cld.pt/dl/download/ef9305dd-ba5a-4989-8db2-05ea0037f68b/5x10%20-%20No%20Inicio....mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x11 DUB
+https://cld.pt/dl/download/68ab71e5-c928-4469-a547-33d6ea4320b8/5x11%20-%20Pulando%20De%20Um%20Cargueiro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d5qbNr" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 5x12 DUB
+https://cld.pt/dl/download/83eadfb6-4550-49bc-9c2a-2efe2ef4998e/5x12%20-%20O%20Grande.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x01 DUB
+https://cld.pt/dl/download/ebc6eeea-0d16-49fc-8098-3aa75a149391/Dexter%20S06E01%20-%20Esses%20Tipos%20de%20Coisa%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x02 DUB
+https://cld.pt/dl/download/f0479dd0-4637-40a3-bad0-4169a6f0d0de/Dexter%20S06E02%20-%20Era%20Uma%20Vez...%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x03 DUB
+https://cld.pt/dl/download/f5af9a20-6ca9-4007-b82c-4f5c730e09ae/Dexter%20S06E03%20-%20Smokey%20and%20the%20Bandit%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x04 DUB
+https://cld.pt/dl/download/1aff80b4-e410-4018-9db3-857a287f35a4/Dexter%20S06E04%20-%20Um%20Cavalo%20de%20Cor%20Diferente%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x05 DUB
+https://cld.pt/dl/download/6d077603-8921-479c-9838-f5b5ee74a3b4/Dexter%20S06E05%20-%20O%20Anjo%20da%20Morte%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x06 DUB
+https://cld.pt/dl/download/b51795f7-cc2b-4cd3-aa07-f9cdbaf37ca1/Dexter%20S06E06%20-%20Apenas%20Deixa%20Ir%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x07 DUB
+https://cld.pt/dl/download/153fb06b-806c-4185-b498-b7b5f10cfd76/Dexter%20S06E07%20-%20Nebrasca%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x08 DUB
+https://cld.pt/dl/download/d433d601-3b8d-4741-98de-ea3ba6ed3e6e/Dexter%20S06E08%20-%20Pecado%20de%20Omiss%C3%A3o%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x09 DUB
+https://cld.pt/dl/download/ce2615f9-ed4a-443d-a585-3eeda3988ec0/Dexter%20S06E09%20-%20Pegue%20o%20Gellar.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x10 DUB
+https://cld.pt/dl/download/5c528075-941e-4383-8ab0-0e1c38eb85f1/Dexter%20S06E010%20-%20Coelho%20Ricochet%20720p%20-%20By-LuanHarper.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x11 DUB
+https://cld.pt/dl/download/69a5cfee-bfb9-4736-96a4-e14b7e3137b6/Dexter%20S06E11%20-%20Fale%20Com%20a%20Minha%20M%C3%A3o.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/pvgfPk" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 6x12 DUB
+https://cld.pt/dl/download/8ae35776-95bf-4ba6-97bf-46cd600b47cd/Dexter%20S06E012%20-%20%C3%89%20Assim%20Que%20o%20Mundo%20Acaba%20720p%20-%20By-LuanHarper.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x01 DUB
+https://cld.pt/dl/download/b8eb8716-b159-4d3f-bb56-1baf321b185a/Dexter%20S07E01%20-%20Voc%C3%AA%20%C3%A9....mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x02 DUB
+https://cld.pt/dl/download/0f7dfc78-7da5-43af-97cd-ed5f1ce0cd9d/Dexter%20S07E02%20-%20A%20Luz%20do%20Sol%20e%20o%20Redemoinho%20Gelado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x03 DUB
+https://cld.pt/dl/download/17fee8c7-3a49-4152-b2c5-49ffe0c83849/Dexter%20S07E03%20-%20N%C3%A3o%20anunciado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x04 DUB
+https://cld.pt/dl/download/c66f1e47-f431-42a6-b3cc-f2b315ad3dd0/Dexter%20S07E04%20-%20Corra.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x05 DUB
+https://cld.pt/dl/download/573dbab0-2728-49f1-98ac-6e04e91e6507/Dexter%20S07E05%20-%20Nade%20Fundo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x06 DUB
+https://cld.pt/dl/download/b40bf7ea-5847-42c9-b122-850ba6831afc/Dexter%20S07E06%20-%20N%C3%A3o%20anunciado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x07 DUB
+https://cld.pt/dl/download/d336b5e8-86b6-4e09-94cf-da13aa415be1/Dexter%20S07E07%20-%20Qu%C3%ADmica.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x08 DUB
+https://cld.pt/dl/download/0d883897-d1ea-4c5f-94d1-b9f40465f9a1/Dexter%20S07E08%20-%20Argentina.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x09 DUB
+https://cld.pt/dl/download/9de86b0c-aafe-44d4-9486-5f389374bbbd/Dexter%20S07E09%20-%20N%C3%A3o%20anunciado.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x10 DUB
+https://cld.pt/dl/download/c7ceeb06-3dfe-4bd2-97c4-386f5537dfb3/Dexter%20S07E10%20-%20O%20Passageiro...%20Qualquer%20Coisa.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x11 DUB
+https://cld.pt/dl/download/65c5c6c9-2da1-45f2-b28e-e7d610339bc7/Dexter%20S07E11%20-%20Voc%C3%AA%20V%C3%AA%20O%20Que%20Eu%20Vejo.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ITWGfl" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 7x12 DUB
+https://cld.pt/dl/download/f8dc374b-df75-4b6c-b4aa-44486617325f/Dexter%20S07E12%20-%20Surpresa%20Motherfucker.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x01 DUB
+https://cld.pt/dl/download/4a45db22-ac04-4e60-b118-efd7dafa8a20/Dex%20S08E01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x02 DUB
+https://cld.pt/dl/download/2207ae63-afe0-468c-839a-03c79446a78a/Dex%20S08E02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x03 DUB
+https://cld.pt/dl/download/27882c38-8bc0-478b-a6da-094198ca6ce0/Dex%20S08E03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x04 DUB
+https://cld.pt/dl/download/0b2972c5-199a-4667-848a-6cf518d9f509/Dex%20S08E04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x05 DUB
+https://cld.pt/dl/download/abd90dca-02cf-4773-84b2-fb91140983bc/Dex%20S08E05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x06 DUB
+https://cld.pt/dl/download/3964e7b5-aaf4-4c9d-865c-60ecad7d9542/Dex%20S08E06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x07 DUB
+https://cld.pt/dl/download/c5d9d49a-945a-481e-9a91-89992c6689ca/Dex%20S08E07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x08 DUB
+https://cld.pt/dl/download/696dcadd-d383-4785-83f5-14f1ce81a64f/Dex%20S08E08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x09 DUB
+https://cld.pt/dl/download/155aaf59-fed7-4a7a-94f6-ab6d776eac31/Dex%20S08E09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x10 DUB
+https://cld.pt/dl/download/afedb644-c0e2-4bcb-8157-1a79ffe3c4e7/Dex%20S08E10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x11 DUB
+https://cld.pt/dl/download/aca50947-9680-4b59-ae91-236c9055e877/Dex%20S08E11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/hJFra5" group-title="SERIES - DUBLADO" pltv-subgroup="Dexter - Dublado", Dexter 8x12 DUB
+https://cld.pt/dl/download/83b957e1-8dac-4db3-806e-e74fae8afd88/Dex%20S08E12.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x01 LEG
+https://v.eroshare.com/e50c1e6x.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x02 LEG
+https://v.eroshare.com/zrds6t62.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x03 LEG
+https://v.eroshare.com/7z3g1biw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x04 LEG
+https://v.eroshare.com/89pey27g.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x05 LEG
+https://v.eroshare.com/nlhhk4r8.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x06 LEG
+https://v.eroshare.com/hepjplit.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x07 LEG
+https://v.eroshare.com/5yef2cjk.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x08 LEG
+https://v.eroshare.com/srvgxj3y.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x09 LEG
+https://v.eroshare.com/f8yssugj.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x10 LEG
+https://v.eroshare.com/l1g4sgtk.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x11 LEG
+https://v.eroshare.com/aaud4b3p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x12 LEG
+https://v.eroshare.com/7y2p08qm.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x13 LEG
+https://v.eroshare.com/jetexo3x.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x14 LEG
+https://v.eroshare.com/4kimhrz2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x15 LEG
+https://v.eroshare.com/a6muh0jt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x16 LEG
+https://v.eroshare.com/155anu4r.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x17 LEG
+https://v.eroshare.com/cdy16g55.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x18 LEG
+https://v.eroshare.com/4nk001gz.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x19 LEG
+https://v.eroshare.com/dor86r6h.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x20 LEG
+https://v.eroshare.com/iawb71nj.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x21 LEG
+https://v.eroshare.com/w482itaw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x22 LEG
+https://v.eroshare.com/e2ss6wxh.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 1x23 LEG
+https://v.eroshare.com/wze76e7a.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x01 DUB
+https://v.eroshare.com/6gxphar3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x02 DUB
+https://v.eroshare.com/osv70vyt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x03 DUB
+https://v.eroshare.com/vqmmxoze.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x04 DUB
+https://v.eroshare.com/secf4151.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x05 DUB
+https://v.eroshare.com/aa8otwea.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x06 DUB
+https://v.eroshare.com/0zz6k8km.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x07 DUB
+https://v.eroshare.com/w0kt1wzg.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x08 DUB
+https://v.eroshare.com/xapxu8b3.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x09 DUB
+https://v.eroshare.com/av7pdybb.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x10 DUB
+https://v.eroshare.com/ksx3a9oe.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x11 DUB
+https://v.eroshare.com/mk1g8gr9.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x12 DUB
+https://v.eroshare.com/c7yq8qzu.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x13 DUB
+https://v.eroshare.com/bujmpsji.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x14 DUB
+https://v.eroshare.com/1ja7errw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x15 DUB
+https://v.eroshare.com/23lnbixs.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x16 DUB
+https://v.eroshare.com/td0w93vl.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x17 DUB
+https://v.eroshare.com/fgc4jjim.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x18 DUB
+https://v.eroshare.com/b6k8hyr9.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x19 DUB
+https://v.eroshare.com/puw90lp2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x20 DUB
+https://v.eroshare.com/iiz8g998.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x21 DUB
+https://v.eroshare.com/llnthutl.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x22 DUB
+https://v.eroshare.com/h878pp2g.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/ChjmtH" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 1x23 DUB
+https://v.eroshare.com/8xzybeon.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x01 DUB
+https://v.eroshare.com/57yyq5xp.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x02 DUB
+https://v.eroshare.com/kwhrne3v.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x03 DUB
+https://v.eroshare.com/8kfygkgt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x04 DUB
+https://v.eroshare.com/7d5grelp.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x05 DUB
+https://v.eroshare.com/rd9639tz.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x06 DUB
+https://v.eroshare.com/3k4y3rym.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x07 DUB
+https://v.eroshare.com/uengl55b.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x08 DUB
+https://v.eroshare.com/ov1hqcqo.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x09 DUB
+https://v.eroshare.com/qhmost7c.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x10 DUB
+https://v.eroshare.com/wf8q3tzc.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x11 DUB
+https://v.eroshare.com/a69h401g.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x12 DUB
+https://v.eroshare.com/oi8kuxlo.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x13 DUB
+https://v.eroshare.com/5mieyprw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x14 DUB
+https://v.eroshare.com/thzusdua.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x15 DUB
+https://v.eroshare.com/g47l6wuy.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x16 DUB
+https://v.eroshare.com/yna331qd.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x17 DUB
+https://v.eroshare.com/560s9vdi.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x18 DUB
+https://v.eroshare.com/d6m7hxzn.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x19 DUB
+https://v.eroshare.com/8evdbidq.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x20 DUB
+https://v.eroshare.com/6rzx2v6x.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x21 DUB
+https://v.eroshare.com/agkzc1am.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x22 DUB
+https://v.eroshare.com/0127qsjv.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - DUBLADO" pltv-subgroup="The Flash - Dublado", The Flash 2x23 DUB
+https://v.eroshare.com/h9eq5olk.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x01 LEG
+https://v.eroshare.com/duho6nlf.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x02 LEG
+https://v.eroshare.com/54evhm4t.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x03 LEG
+https://v.eroshare.com/47vuwbel.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x04 LEG
+https://v.eroshare.com/1lbf4j5n.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x05 LEG
+https://v.eroshare.com/tgnfex5f.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x06 LEG
+https://v.eroshare.com/uflslnty.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x07 LEG
+https://v.eroshare.com/okm5a7w2.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x08 LEG
+https://v.eroshare.com/4h9h85sk.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x09 LEG
+https://v.eroshare.com/e3gx6ttg.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x10 LEG
+https://v.eroshare.com/1jxdcyhv.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x11 LEG
+https://v.eroshare.com/2b217drj.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x12 LEG
+https://v.eroshare.com/jlrvn187.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x13 LEG
+https://v.eroshare.com/7yeel74k.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x14 LEG
+https://v.eroshare.com/yvuqw7pk.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x15 LEG
+https://v.eroshare.com/fqcd670h.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x16 LEG
+https://v.eroshare.com/d7p4yvau.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x17 LEG
+https://v.eroshare.com/zzj4g48t.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x18 LEG
+https://v.eroshare.com/urdl5io4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x19 LEG
+https://v.eroshare.com/6t9b2gwl.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x20 LEG
+https://v.eroshare.com/misn8qae.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x21 LEG
+https://v.eroshare.com/a5bu329m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x22 LEG
+https://v.eroshare.com/gwl7h13s.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/EOAZdQ" group-title="SERIES - LEGENDADO" pltv-subgroup="The Flash - Legendado", The Flash 2x23 LEG
+https://v.eroshare.com/iegdizdx.mp4
+
+################## FILMES ###########################
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - LEGENDADO" pltv-subgroup="Fantasia", Warcraft - O Primeiro Encontro de Dois Mundos LEG
+https://cld.pt/dl/download/ec072f9d-6d58-4d18-a63f-53627e266f70/W4rcr4ft%20L3gend4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Warcraft - O Primeiro Encontro de Dois Mundos LEG
+https://cld.pt/dl/download/ec072f9d-6d58-4d18-a63f-53627e266f70/W4rcr4ft%20L3gend4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Warcraft - O Primeiro Encontro de Dois Mundos LEG
+https://cld.pt/dl/download/ec072f9d-6d58-4d18-a63f-53627e266f70/W4rcr4ft%20L3gend4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Warcraft - O Primeiro Encontro de Dois Mundos DUB
+https://cld.pt/dl/download/71eb9cdd-b4b0-40fb-b74d-894852ed6888/W4rcr5ft%20Dubl5d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - DUBLADO" pltv-subgroup="Fantasia", Warcraft - O Primeiro Encontro de Dois Mundos DUB
+https://cld.pt/dl/download/71eb9cdd-b4b0-40fb-b74d-894852ed6888/W4rcr5ft%20Dubl5d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/d0Si7y" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Warcraft - O Primeiro Encontro de Dois Mundos DUB
+https://cld.pt/dl/download/71eb9cdd-b4b0-40fb-b74d-894852ed6888/W4rcr5ft%20Dubl5d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JXFrMf" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Stallone Cobra DUB
+https://cld.pt/dl/download/0b9cf684-e776-49ca-acc2-8a709e1c14f0/C0BRA%20DuBL4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JXFrMf" group-title="FILMES - DUBLADO" pltv-subgroup="Policial", Stallone Cobra DUB
+https://cld.pt/dl/download/0b9cf684-e776-49ca-acc2-8a709e1c14f0/C0BRA%20DuBL4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JXFrMf" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Stallone Cobra LEG
+https://cld.pt/dl/download/7b5de751-1308-4686-b45b-bf014798a91b/C0BRA%20Leg3ndad0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JXFrMf" group-title="FILMES - LEGENDADO" pltv-subgroup="Policial", Stallone Cobra LEG
+https://cld.pt/dl/download/7b5de751-1308-4686-b45b-bf014798a91b/C0BRA%20Leg3ndad0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Ve7c8v" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", A Lenda de Tarzan LEG
+https://cld.pt/dl/download/26734099-a476-4a25-838c-dd20e8a33255/A%20L3nda%20D3%20T4rzan%2020.16%20L3geend4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Ve7c8v" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", A Lenda de Tarzan LEG
+https://cld.pt/dl/download/26734099-a476-4a25-838c-dd20e8a33255/A%20L3nda%20D3%20T4rzan%2020.16%20L3geend4d0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Ve7c8v" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", A Lenda de Tarzan DUB
+https://cld.pt/dl/download/d4648426-7f58-436d-85bb-d41b21a2f956/A%20L3nda%20de%20T4rzan%20-%202016%20DUBl4ld0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Ve7c8v" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", A Lenda de Tarzan DUB
+https://cld.pt/dl/download/d4648426-7f58-436d-85bb-d41b21a2f956/A%20L3nda%20de%20T4rzan%20-%202016%20DUBl4ld0.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Vingadores: Era de Ultron - 2015 - DUB
+https://cld.pt/dl/download/e645abe8-0bd8-4969-8b6f-88b1993b4988/Ving4dores.Era.de.Ultron_Dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Vingadores: Era de Ultron - 2015 - DUB
+https://cld.pt/dl/download/e645abe8-0bd8-4969-8b6f-88b1993b4988/Ving4dores.Era.de.Ultron_Dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Vingadores: Era de Ultron - 2015 - DUB
+https://cld.pt/dl/download/e645abe8-0bd8-4969-8b6f-88b1993b4988/Ving4dores.Era.de.Ultron_Dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Vingadores: Era de Ultron - 2015 - LEG
+https://cld.pt/dl/download/d624eb6e-d798-42a1-9d3b-af48c701fdc0/ERA%20DE%20ULTRON%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Vingadores: Era de Ultron - 2015 - LEG
+https://cld.pt/dl/download/d624eb6e-d798-42a1-9d3b-af48c701fdc0/ERA%20DE%20ULTRON%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/nSVb9c" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Vingadores: Era de Ultron - 2015 - LEG
+https://cld.pt/dl/download/d624eb6e-d798-42a1-9d3b-af48c701fdc0/ERA%20DE%20ULTRON%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Deadpool - 2016 - LEG
+https://cld.pt/dl/download/b8002887-27d0-4e70-8e92-ffdf0613cd12/D3dpul%202016%20leg.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Deadpool - 2016 - LEG
+https://cld.pt/dl/download/b8002887-27d0-4e70-8e92-ffdf0613cd12/D3dpul%202016%20leg.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Deadpool - 2016 - LEG
+https://cld.pt/dl/download/b8002887-27d0-4e70-8e92-ffdf0613cd12/D3dpul%202016%20leg.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Deadpool - 2016 - DUB
+https://cld.pt/dl/download/5e5fde87-6ffd-48f2-af69-5b9263c7e015/dedpuul%202016%20dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Deadpool - 2016 - DUB
+https://cld.pt/dl/download/5e5fde87-6ffd-48f2-af69-5b9263c7e015/dedpuul%202016%20dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lM9VjK" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Deadpool - 2016 - DUB
+https://cld.pt/dl/download/5e5fde87-6ffd-48f2-af69-5b9263c7e015/dedpuul%202016%20dub.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WamKmA" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Rocky 1 - Um Lutador 1976 LEG
+https://cld.pt/dl/download/381317cf-bc05-4744-8bcb-7f3502083198/Rocky%20-%201976%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WamKmA" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Rocky 1 - Um Lutador 1976 LEG
+https://cld.pt/dl/download/381317cf-bc05-4744-8bcb-7f3502083198/Rocky%20-%201976%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WamKmA" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Rocky 1 - Um Lutador 1976 DUB
+https://cld.pt/dl/download/ec4adfe6-1933-4357-aa5f-9da3dc97a538/Rocky.1976.DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/WamKmA" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Rocky 1 - Um Lutador 1976 DUB
+https://cld.pt/dl/download/ec4adfe6-1933-4357-aa5f-9da3dc97a538/Rocky.1976.DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Y4LCBZ" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Rocky 2 - A Revanche 1979 DUB
+https://cld.pt/dl/download/e445d49d-9bf3-47d4-82f0-32c4fdd80aa7/Rocky.ii.1979-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Y4LCBZ" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Rocky 2 - A Revanche 1979 DUB
+https://cld.pt/dl/download/e445d49d-9bf3-47d4-82f0-32c4fdd80aa7/Rocky.ii.1979-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Y4LCBZ" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Rocky 2 - A Revanche 1979 LEG
+https://cld.pt/dl/download/6b393ecd-4442-440c-b22c-c184a20afdc9/Rocky.ii.1979-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Y4LCBZ" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Rocky 2 - A Revanche 1979 LEG
+https://cld.pt/dl/download/6b393ecd-4442-440c-b22c-c184a20afdc9/Rocky.ii.1979-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0yF1KL" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Rocky 3 - O Desafio Supremo 1982 DUB
+https://cld.pt/dl/download/ea3d0cb1-671d-4f0c-accd-f9a9075f5cfb/Rocky-iii-1982-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0yF1KL" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Rocky 3 - O Desafio Supremo 1982 DUB
+https://cld.pt/dl/download/ea3d0cb1-671d-4f0c-accd-f9a9075f5cfb/Rocky-iii-1982-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0yF1KL" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Rocky 3 - O Desafio Supremo 1982 LEG
+https://cld.pt/dl/download/cd4bce26-661d-4584-889b-211926eb6fe1/Rocky-iii-1982-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0yF1KL" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Rocky 3 - O Desafio Supremo 1982 LEG
+https://cld.pt/dl/download/cd4bce26-661d-4584-889b-211926eb6fe1/Rocky-iii-1982-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lx5RTw" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Rocky 4 - 1986 DUB
+https://cld.pt/dl/download/1056d130-bc6e-4e3d-9f62-1dcb3f464730/Rocky.iv.1985.DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lx5RTw" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Rocky 4 - 1986 DUB
+https://cld.pt/dl/download/1056d130-bc6e-4e3d-9f62-1dcb3f464730/Rocky.iv.1985.DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lx5RTw" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Rocky 4 - 1986 LEG
+https://cld.pt/dl/download/8b118b8e-9737-4bf7-8462-814e2496c1d0/Rocky.iv.1985.LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/lx5RTw" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Rocky 4 - 1986 LEG
+https://cld.pt/dl/download/8b118b8e-9737-4bf7-8462-814e2496c1d0/Rocky.iv.1985.LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ASjjBY" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Rocky 5 - 1990 DUB
+https://cld.pt/dl/download/d6d2fdfb-b57f-4934-a649-4064b6f8976d/Rocky.v.1990.bluray.1080p.dual.prado-1-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ASjjBY" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Rocky 5 - 1990 DUB
+https://cld.pt/dl/download/d6d2fdfb-b57f-4934-a649-4064b6f8976d/Rocky.v.1990.bluray.1080p.dual.prado-1-DUB.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ASjjBY" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Rocky 5 - 1990 LEG
+https://cld.pt/dl/download/8f46a682-c3cb-4a8c-9292-f58abfffc729/Rocky.v.1990LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ASjjBY" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Rocky 5 - 1990 LEG
+https://cld.pt/dl/download/8f46a682-c3cb-4a8c-9292-f58abfffc729/Rocky.v.1990LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dKDuid" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", American Ultra - Armados e Alucinados - 2015 DUB
+https://cld.pt/dl/download/8fcdac17-39f7-445e-b55d-5601f3f75048/American.ultra.armados.e.alucinados.2016.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dKDuid" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", American Ultra - Armados e Alucinados - 2015 DUB
+https://cld.pt/dl/download/8fcdac17-39f7-445e-b55d-5601f3f75048/American.ultra.armados.e.alucinados.2016.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dKDuid" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", American Ultra - Armados e Alucinados - 2015 LEG
+https://cld.pt/dl/download/8bdff7bb-01f1-4819-bbb4-469e3c549077/American.ultra.armados.e.alucinados.2016.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dKDuid" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", American Ultra - Armados e Alucinados - 2015 LEG
+https://cld.pt/dl/download/8bdff7bb-01f1-4819-bbb4-469e3c549077/American.ultra.armados.e.alucinados.2016.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mQIZw6" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Como Sobreviver a um Ataque Zumbi - 2015 DUB
+https://cld.pt/dl/download/2c4724d2-3480-4df6-8421-95e4a3ee946c/Como.sobreviver.a.um.ataque.zumbi.2015.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mQIZw6" group-title="FILMES - DUBLADO" pltv-subgroup="Terror", Como Sobreviver a um Ataque Zumbi - 2015 DUB
+https://cld.pt/dl/download/2c4724d2-3480-4df6-8421-95e4a3ee946c/Como.sobreviver.a.um.ataque.zumbi.2015.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mQIZw6" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Como Sobreviver a um Ataque Zumbi - 2015 LEG
+https://cld.pt/dl/download/758b3e37-0a17-4c9d-be85-ce185abb1eb7/Como.sobreviver.a.um.ataque.zumbi.2015.720p.bluray.dual-lapumia-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/mQIZw6" group-title="FILMES - LEGENDADO" pltv-subgroup="Terror", Como Sobreviver a um Ataque Zumbi - 2015 LEG
+https://cld.pt/dl/download/758b3e37-0a17-4c9d-be85-ce185abb1eb7/Como.sobreviver.a.um.ataque.zumbi.2015.720p.bluray.dual-lapumia-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - DUBLADO" pltv-subgroup="Fantasia", Deuses do Egito - 2016 DUB
+https://cld.pt/dl/download/b66e1f51-b1c7-45f4-9f9f-1a7e9146e708/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Deuses do Egito - 2016 DUB
+https://cld.pt/dl/download/b66e1f51-b1c7-45f4-9f9f-1a7e9146e708/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Deuses do Egito - 2016 DUB
+https://cld.pt/dl/download/b66e1f51-b1c7-45f4-9f9f-1a7e9146e708/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - LEGENDADO" pltv-subgroup="Fantasia", Deuses do Egito - 2016 LEG
+https://cld.pt/dl/download/0d0bf0e9-ec4e-42d4-a03f-7947ab99383f/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Deuses do Egito - 2016 LEG
+https://cld.pt/dl/download/0d0bf0e9-ec4e-42d4-a03f-7947ab99383f/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/njzyD5" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Deuses do Egito - 2016 LEG
+https://cld.pt/dl/download/0d0bf0e9-ec4e-42d4-a03f-7947ab99383f/Deuses%20Do%20Egito%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iCXZL0" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Hitman - Agente 47 - 2015 DUB
+https://cld.pt/dl/download/350f15ef-210c-4453-81da-9998012a6a87/Hitman.agente.47.2015.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/iCXZL0" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Hitman - Agente 47 - 2015 LEG
+https://cld.pt/dl/download/184a7c1e-1b02-4f0f-a51f-242ee1fa09f7/Hitman.agente.47.2015.720p.bluray.dual-lapumia-1-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dSLwyl" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", O Regresso - 2015 DUB
+https://cld.pt/dl/download/1d9747e3-7063-4e71-abe4-eb6bf592d1fc/O%20Regresso%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dSLwyl" group-title="FILMES - DUBLADO" pltv-subgroup="Faroeste", O Regresso - 2015 DUB
+https://cld.pt/dl/download/1d9747e3-7063-4e71-abe4-eb6bf592d1fc/O%20Regresso%20720p%20%282016%29%20Dual%20%C3%81udio%20Bluray%205.1%20--%20By%20-%20Lucas%20Firmo-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dSLwyl" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", O Regresso - 2015 LEG
+https://cld.pt/dl/download/783590a6-d5ac-4cef-97c7-5534fd4bee66/O%20Regresso-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dSLwyl" group-title="FILMES - LEGENDADO" pltv-subgroup="Faroeste", O Regresso - 2015 LEG
+https://cld.pt/dl/download/783590a6-d5ac-4cef-97c7-5534fd4bee66/O%20Regresso-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0e7KUa" group-title="FILMES - DUBLADO" pltv-subgroup="Faroeste", The Ridiculous 6 - 2015 DUB
+https://cld.pt/dl/download/3f976881-7d23-471f-bf94-8ec0a932394a/The.ridiculous.6.2015.720p.webrip.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0e7KUa" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", The Ridiculous 6 - 2015 DUB
+https://cld.pt/dl/download/3f976881-7d23-471f-bf94-8ec0a932394a/The.ridiculous.6.2015.720p.webrip.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0e7KUa" group-title="FILMES - LEGENDADO" pltv-subgroup="Faroeste", The Ridiculous 6 - 2015 LEG
+https://cld.pt/dl/download/d7334f75-010c-4794-9819-547a09aa779c/The.ridiculous.6.2015.720p.webrip.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/0e7KUa" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", The Ridiculous 6 - 2015 LEG
+https://cld.pt/dl/download/d7334f75-010c-4794-9819-547a09aa779c/The.ridiculous.6.2015.720p.webrip.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - DUBLADO" pltv-subgroup="Fantasia", Victor Frankenstein - 2015 DUB
+https://cld.pt/dl/download/3fccb5be-996a-4c28-af39-6618fd5e32c7/Victor.frankenstein.2016.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Victor Frankenstein - 2015 DUB
+https://cld.pt/dl/download/3fccb5be-996a-4c28-af39-6618fd5e32c7/Victor.frankenstein.2016.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - DUBLADO" pltv-subgroup="Terror", Victor Frankenstein - 2015 DUB
+https://cld.pt/dl/download/3fccb5be-996a-4c28-af39-6618fd5e32c7/Victor.frankenstein.2016.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - LEGENDADO" pltv-subgroup="Fantasia", Victor Frankenstein - 2015 LEG
+https://cld.pt/dl/download/6f317e78-d4d8-486e-8d42-ef72bb235098/Victor.frankenstein.2016.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Victor Frankenstein - 2015 LEG
+https://cld.pt/dl/download/6f317e78-d4d8-486e-8d42-ef72bb235098/Victor.frankenstein.2016.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RAJItM" group-title="FILMES - LEGENDADO" pltv-subgroup="Terror", Victor Frankenstein - 2015 LEG
+https://cld.pt/dl/download/6f317e78-d4d8-486e-8d42-ef72bb235098/Victor.frankenstein.2016.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/1lu8FN" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Perdido em Marte - 2015 DUB
+https://cld.pt/dl/download/6dc4572b-778b-42ab-a8e0-a285973ac8fc/Perdido.em.marte.2015.720p.bluray.dual-lapumia-1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/1lu8FN" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Perdido em Marte - 2015 LEG
+https://cld.pt/dl/download/3b5632dd-4e2d-41d2-a212-f8795500fd54/Perdido.em.marte.2015.720p.bluray.dual-lapumia-LEG.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yC5LYt" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Homem-Formiga - 2015 DUB
+https://cld.pt/dl/download/fc5c0d52-2baf-49b5-b292-64f84f36697f/Homem.formiga.2015.720p.hdrip.dual-wolverdonfilmes.com-1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yC5LYt" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Homem-Formiga - 2015 DUB
+https://cld.pt/dl/download/fc5c0d52-2baf-49b5-b292-64f84f36697f/Homem.formiga.2015.720p.hdrip.dual-wolverdonfilmes.com-1.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yC5LYt" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Homem-Formiga - 2015 LEG
+https://cld.pt/dl/download/bf00847d-ef1d-40e9-b1be-855c8e634294/Homem.formiga.2015.720p.hdrip.dual-wolverdonfilmes.com-LEG.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/yC5LYt" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Homem-Formiga - 2015 LEG
+https://cld.pt/dl/download/bf00847d-ef1d-40e9-b1be-855c8e634294/Homem.formiga.2015.720p.hdrip.dual-wolverdonfilmes.com-LEG.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kWf8yr" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Batman Vs Superman - A Origem da Justiça - 2016 DUB
+https://v.eroshare.com/zocq6qvb.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kWf8yr" group-title="FILMES - DUBLADO" pltv-subgroup="Fantasia", Batman Vs Superman - A Origem da Justiça - 2016 DUB
+https://v.eroshare.com/zocq6qvb.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kWf8yr" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Batman Vs Superman - A Origem da Justiça - 2016 LEG
+https://v.eroshare.com/9y31mhbs.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kWf8yr" group-title="FILMES - LEGENDADO" pltv-subgroup="Fantasia", Batman Vs Superman - A Origem da Justiça - 2016 LEG
+https://v.eroshare.com/9y31mhbs.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Pixels 2015 DUB
+https://v.eroshare.com/p2gcr8g4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Pixels 2015 DUB
+https://v.eroshare.com/p2gcr8g4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Pixels 2015 DUB
+https://v.eroshare.com/p2gcr8g4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Pixels 2015 LEG
+https://v.eroshare.com/ioti2r38.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Pixels 2015 LEG
+https://v.eroshare.com/ioti2r38.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/X32Dnu" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Pixels 2015 LEG
+https://v.eroshare.com/ioti2r38.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Zootopia 2016 DUB
+https://v.eroshare.com/97xy9r4m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - DUBLADO" pltv-subgroup="Família", Zootopia 2016 DUB
+https://v.eroshare.com/97xy9r4m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - DUBLADO" pltv-subgroup="Animação", Zootopia 2016 DUB
+https://v.eroshare.com/97xy9r4m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Zootopia 2016 LEG
+https://v.eroshare.com/t3xj1nda.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - LEGENDADO" pltv-subgroup="Família", Zootopia 2016 LEG
+https://v.eroshare.com/t3xj1nda.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/Xdl2Hz" group-title="FILMES - LEGENDADO" pltv-subgroup="Animação", Zootopia 2016 LEG
+https://v.eroshare.com/t3xj1nda.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/En2iKZ" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Círculo de Fogo 2013 DUB
+https://v.eroshare.com/v0jogb0m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/En2iKZ" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Círculo de Fogo 2013 DUB
+https://v.eroshare.com/v0jogb0m.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/En2iKZ" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Círculo de Fogo 2013 LEG
+https://v.eroshare.com/dcduyci7.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/En2iKZ" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Círculo de Fogo 2013 LEG
+https://v.eroshare.com/dcduyci7.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fcRh7T" group-title="FILMES - LEGENDADO" pltv-subgroup="Anime", Berserk Era de Ouro Ato I: Ovo do Supremo Imperador 2012 LEG
+https://v.eroshare.com/nl2geyn9.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PBRkTh" group-title="FILMES - LEGENDADO" pltv-subgroup="Anime", Berserk Era de Ouro Ato II: A Batalha de Doldrey 2012 LEG
+https://v.eroshare.com/t7fozav9.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PBRkTh" group-title="FILMES - LEGENDADO" pltv-subgroup="Anime", Berserk Era de Ouro Ato III: A Queda 2013 LEG
+https://v.eroshare.com/qq3ebwsb.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CEmNqO" group-title="FILMES - DUBLADO" pltv-subgroup="Suspense", Jogo do Dinheiro 2016 DUB
+https://v.eroshare.com/xziok5pp.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CEmNqO" group-title="FILMES - LEGENDADO" pltv-subgroup="Suspense", Jogo do Dinheiro 2016 LEG
+https://v.eroshare.com/i97koqeh.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IHt8sD" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Homem de Ferro 1 2008 DUB
+https://v.eroshare.com/k4xjg5mq.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IHt8sD" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Homem de Ferro 1 2008 DUB
+https://v.eroshare.com/k4xjg5mq.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IHt8sD" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Homem de Ferro 1 2008 LEG
+https://v.eroshare.com/yf7r3uic.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IHt8sD" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Homem de Ferro 1 2008 LEG
+https://v.eroshare.com/yf7r3uic.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Homem de Ferro 2 2010 DUB
+https://v.eroshare.com/r5d22trw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Homem de Ferro 2 2010 DUB
+https://v.eroshare.com/r5d22trw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Homem de Ferro 2 2010 DUB
+https://v.eroshare.com/r5d22trw.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Homem de Ferro 2 2010 LEG
+https://v.eroshare.com/4z5a5fyu.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Homem de Ferro 2 2010 LEG
+https://v.eroshare.com/4z5a5fyu.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/fa2Q6r" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Homem de Ferro 2 2010 LEG
+https://v.eroshare.com/4z5a5fyu.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DPXZzt" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Homem de Ferro 3 2013 DUB
+https://v.eroshare.com/gucmmrj0.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DPXZzt" group-title="FILMES - DUBLADO" pltv-subgroup="Ficção Científica", Homem de Ferro 3 2013 DUB
+https://v.eroshare.com/gucmmrj0.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DPXZzt" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Homem de Ferro 3 2013 LEG
+https://v.eroshare.com/4aokr95i.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/DPXZzt" group-title="FILMES - LEGENDADO" pltv-subgroup="Ficção Científica", Homem de Ferro 3 2013 LEG
+https://v.eroshare.com/4aokr95i.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IwEnUA" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", 99 Casas 2014 DUB
+https://v.eroshare.com/h9fe5xes.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/IwEnUA" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", 99 Casas 2014 LEG
+https://v.eroshare.com/6xx21aw4.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/frmUCR" group-title="FILMES - DUBLADO" pltv-subgroup="Policial", Cães de Aluguel 1993 DUB
+https://v.eroshare.com/g7wouvze.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/frmUCR" group-title="FILMES - DUBLADO" pltv-subgroup="Suspense", Cães de Aluguel 1993 DUB
+https://v.eroshare.com/g7wouvze.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/frmUCR" group-title="FILMES - LEGENDADO" pltv-subgroup="Policial", Cães de Aluguel 1993 LEG
+https://v.eroshare.com/zelin1e6.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/frmUCR" group-title="FILMES - LEGENDADO" pltv-subgroup="Suspense", Cães de Aluguel 1993 LEG
+https://v.eroshare.com/zelin1e6.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/awmqwq" group-title="FILMES - DUBLADO" pltv-subgroup="Drama", Donnie Darko 2000 DUB
+https://v.eroshare.com/l0vdh6xn.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/awmqwq" group-title="FILMES - DUBLADO" pltv-subgroup="Suspense", Donnie Darko 2000 DUB
+https://v.eroshare.com/l0vdh6xn.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/awmqwq" group-title="FILMES - LEGENDADO" pltv-subgroup="Drama", Donnie Darko 2000 LEG
+https://v.eroshare.com/aupe6211.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/awmqwq" group-title="FILMES - LEGENDADO" pltv-subgroup="Suspense", Donnie Darko 2000 LEG
+https://v.eroshare.com/aupe6211.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2b9bcI" group-title="FILMES - DUBLADO" pltv-subgroup="Ação", Esquadrão Classe A 2010 DUB
+https://v.eroshare.com/5gmfbbhe.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2b9bcI" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Esquadrão Classe A 2010 DUB
+https://v.eroshare.com/5gmfbbhe.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2b9bcI" group-title="FILMES - LEGENDADO" pltv-subgroup="Ação", Esquadrão Classe A 2010 LEG
+https://v.eroshare.com/0dzy7egz.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2b9bcI" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Esquadrão Classe A 2010 LEG
+https://v.eroshare.com/0dzy7egz.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - DUBLADO" pltv-subgroup="Comédia", Gato de Botas 2011 DUB
+https://v.eroshare.com/i3n9ewtt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - DUBLADO" pltv-subgroup="Animação", Gato de Botas 2011 DUB
+https://v.eroshare.com/i3n9ewtt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - DUBLADO" pltv-subgroup="Aventura", Gato de Botas 2011 DUB
+https://v.eroshare.com/i3n9ewtt.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - LEGENDADO" pltv-subgroup="Comédia", Gato de Botas 2011 LEG
+https://v.eroshare.com/3qb7tpp5.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - LEGENDADO" pltv-subgroup="Animação", Gato de Botas 2011 LEG
+https://v.eroshare.com/3qb7tpp5.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/9Xn8Q1" group-title="FILMES - LEGENDADO" pltv-subgroup="Aventura", Gato de Botas 2011 LEG
+https://v.eroshare.com/3qb7tpp5.mp4
+
+
+
+
+
+                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   
+
+
+
+
+                                    
+
+
+
+
+
+
+
+                                     
+
+Copyright © 2016 - IPTV Kodi j2mf4
